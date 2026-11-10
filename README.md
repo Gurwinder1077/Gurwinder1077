@@ -22,7 +22,7 @@ I build web applications and custom business systems, and I enjoy turning messy 
 
 - **[Job Application Automation](https://github.com/Gurwinder1077/job-application-automation)** — an end-to-end system built in n8n that pulls live job listings from a government jobs API, drafts tailored German + English cover letters with AI, attaches a CV, and tracks every application in a spreadsheet — with a human-approval step before anything is sent.
 
-- **[Laravel REST API / Mini-CRM](https://github.com/Gurwinder1077/laravel-mini-crm)** — a clean Laravel REST API demonstrating authentication, resource controllers, validation, and database relationships. *(coming soon)*
+- **[Foto-Maxe Studio](https://github.com/Gurwinder1077/studio)** — a full Laravel 12 application for a photo-studio business: locations, photo days, bookings and a shop.
 
 - **[PrintFul → WooCommerce Sync](https://github.com/Gurwinder1077/PrintFullToWooProductCreateWithVarients)** — syncs products with variants from PrintFul into a WooCommerce store via API.
 
