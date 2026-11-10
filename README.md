@@ -24,7 +24,7 @@ I build web applications and custom business systems, and I enjoy turning messy 
 
 - **[Foto-Maxe Studio](https://github.com/Gurwinder1077/studio)** — a full Laravel 12 application for a photo-studio business: locations, photo days, bookings and a shop.
 
-- **[PrintFul → WooCommerce Sync](https://github.com/Gurwinder1077/PrintFullToWooProductCreateWithVarients)** — syncs products with variants from PrintFul into a WooCommerce store via API.
+* [PrintFul → WooCommerce Sync](https://github.com/Gurwinder1077/printful-woocommerce-sync) — syncs products with variants from PrintFul into a WooCommerce store via API.
 
 ---
 
