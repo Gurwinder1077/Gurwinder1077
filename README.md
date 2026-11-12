@@ -1,4 +1,4 @@
-# Hi, I'm Gurwinder 👋
+# Hi, I'm Gurwinder Singh 👋
 
 **Backend Developer — PHP · Laravel · REST APIs · Workflow Automation**
 
